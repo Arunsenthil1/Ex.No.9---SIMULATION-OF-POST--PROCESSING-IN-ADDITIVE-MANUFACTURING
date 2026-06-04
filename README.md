@@ -53,8 +53,8 @@
 
 <img width="631" height="287" alt="Screenshot 2026-05-21 202711" src="https://github.com/user-attachments/assets/5edfc72b-8a1f-4e26-b367-65dff765f4a3" />
 
-### Name: AADIPRANAV S
-### Register Number: 212224230001
+### Name: ARUN S
+### Register Number: 212224230023
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
